@@ -3,3 +3,5 @@ twofunction-I have added an another important function.
 Threefunction:I have added unncessary function
 
 Adding a new line to master branch
+
+added chart function in out branch
