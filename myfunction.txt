@@ -1,7 +1,9 @@
-onefunction-I have added a very important function here.
+onefunction-I have added a  very very very important function here.
 twofunction-I have added an another important function.
 Threefunction:I have added unncessary function
 
 Adding a new line to master branch
 
 added chart function in out branch
+
+added for code logout
